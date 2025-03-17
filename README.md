@@ -1,8 +1,7 @@
-### Hi there 👋 my name is Pedro Menezes
-- 📘 I’m currently studying Software Engeneering at FIAP, São Paulo
-- 👾 I’m currently working with Java, Python, 3D modelling and Oracle SQL
+### Hi there 👋 my name is Pedro Silva
+- 📘 I have studied at FIAP, as software engineering
+- 👾 My best languages: Python, SQL, C#, .NET, HTML and CSS.
 - 📫 How to reach me: pepomenezes@hotmail.com
-- 😄 Pronouns: He/Him
 - ##
 <div>
   
