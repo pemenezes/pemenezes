@@ -19,14 +19,6 @@ Sou estudante de Engenharia de Software na FIAP e atualmente trabalho como Engen
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
----
-
-### 📊 Minhas Estatísticas e Contribuições
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pemenezes&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemenezes&layout=compact&theme=radical" width="48%" />
-</div>
 
 <br>
 
