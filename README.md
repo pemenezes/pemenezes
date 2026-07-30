@@ -17,8 +17,8 @@ fluently english speaker
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pemenezes&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Pedro's GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=pemenezes&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Pedro's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Pedro's GitHub Stats" />
 
 ## Contacts
 
-[pepomenezes@hotmail.com](mailto:pepomenezes@hotmail.com) · [LinkedIn](#)
+[pepomenezes@hotmail.com](mailto:pepomenezes@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/pedrosilva-it/)
