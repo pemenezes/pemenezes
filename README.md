@@ -1,16 +1,23 @@
 # Pedro Menezes
 
-Software engineer 
+Software engineer
+
 experience in data engineering at Metlife
-experience in software engineerin at Shippify
+
+experience in software engineering at Shippify
 
 fluently english speaker
 
 ## Stack
 
-**Data and Cloud** - Pyspark . Azure Synapse . Power BI
+| Area | Tools |
+|---|---|
+| Data and Cloud| Pyspark, Azure Synapse, Power BI|
+| Software | JS, NodeJS, Docker, Linux|
 
-**Software** - JS . nodeJS . Docker . Linux
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=pemenezes&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Pedro's GitHub Stats" />
 
 ## Contacts
 
