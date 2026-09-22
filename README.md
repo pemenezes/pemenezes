@@ -1,5 +1,4 @@
 <div align="center">
-  
   <img src="https://avatars.githubusercontent.com/u/101873037?v=4" width="110" height="110" alt="Pedro Menezes" />
 
   <h1>Pedro Menezes</h1>
